@@ -86,4 +86,4 @@ MIT — podes usar, modificar e redistribuir livremente.
 
 ---
 
-*Feito com 🇵🇹 para todos os que querem um Claude que fale mesmo português.*
+*Feito com 🇵🇹 para todos os que querem um Claude que fale português de Portugal.*
