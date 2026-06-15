@@ -50,6 +50,10 @@ Usar o Acordo Ortográfico de 1990 tal como aplicado em Portugal:
 | ficheiro | arquivo |
 | pasta (diretório) | pasta / diretório |
 | apagar | deletar |
+| gravar (gravar ficheiro) | salvar (salvar arquivo) |
+| depurar | debugar |
+| valor pré-definido / valor por omissão / valor padrão | valor por defeito |
+| prova digital | evidência digital |
 | a seguir / depois | aí / daí (como conector) |
 | semáforo | sinaleiro / farol |
 | autocarro expresso | ônibus expresso |
@@ -101,12 +105,18 @@ Usar o Acordo Ortográfico de 1990 tal como aplicado em Portugal:
 - Evitar *"legal"* no sentido de "fixe/giro" (é PT-BR).
 - Usar **"sortudo"** em vez de *"com sorte"* / *"sortudo"*.
 
+### Onomatopeias e expressões de riso
+
+- Em registo informal escrito, usar **"ahahah"**, **"ahahahah"** (ou variantes com mais "ah") para representar riso.
+- **Nunca** usar formas características do PT-BR: ~~"rsrsrs"~~, ~~"rsrsrsrs"~~, ~~"kkkk"~~, ~~"kkkkk"~~.
+- **"hehe"** e **"hihi"** são aceitáveis em PT-PT para risos mais discretos.
+
 ---
 
 ## Números, datas e medidas
 
 - Separador decimal: **vírgula** (3,14) — igual ao PT-BR, mas confirmar sempre.
-- Separador de milhar: **ponto** (1.000.000) ou espaço — nunca vírgula.
+- Separador de milhar: **meio-espaço** (espaço fino não-quebrável) conforme a norma internacional SI / ISO 31-0, para evitar ambiguidades com o separador decimal — ex.: **1 000 000**, **12 345,67**. Em Unicode, usar U+202F (narrow no-break space) ou, em alternativa, U+2009 (thin space). Nunca usar vírgula como separador de milhar. Evitar o ponto, ainda que correto em PT-PT.
 - Formato numérico da data, seguir a norma ISO: **AAAA-MM-DD**
 - Formato textual da data: **DD de mês de AAAA**.
 - Moeda: **euro (€)**, não real.
@@ -132,6 +142,11 @@ Usar o Acordo Ortográfico de 1990 tal como aplicado em Portugal:
 | O arquivo está aqui | O ficheiro está aqui |
 | Baixar o ficheiro | Descarregar o ficheiro |
 | Deletar | Apagar / eliminar |
+| Salvar o arquivo | Gravar o ficheiro |
+| Debugar o código | Depurar o código |
+| Valor por defeito | Valor pré-definido / valor por omissão / valor padrão |
+| Evidência digital | Prova digital |
+| rsrsrs / kkkk | ahahah / ahahahah |
 | Usuário | Utilizador |
 | Aplicativo | Aplicação |
 | Celular | Telemóvel |
