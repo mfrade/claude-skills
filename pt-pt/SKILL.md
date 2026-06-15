@@ -116,7 +116,7 @@ Usar o Acordo Ortográfico de 1990 tal como aplicado em Portugal:
 ## Números, datas e medidas
 
 - Separador decimal: **vírgula** (3,14) — igual ao PT-BR, mas confirmar sempre.
-- Separador de milhar: **meio-espaço** (espaço fino não-quebrável) conforme a norma internacional SI / ISO 31-0, para evitar ambiguidades com o separador decimal — ex.: **1 000 000**, **12 345,67**. Em Unicode, usar U+202F (narrow no-break space) ou, em alternativa, U+2009 (thin space). Nunca usar vírgula como separador de milhar. Evitar o ponto, ainda que correto em PT-PT.
+- Separador de milhar: **meio-espaço** (espaço fino não-quebrável) conforme a norma internacional SI / ISO 31-0, para evitar ambiguidades com o separador decimal — ex.: **1 000 000**, **12 345,67**. Em Unicode, usar U+202F (narrow no-break space) ou, em alternativa, U+2009 (thin space). Nunca usar vírgula como separador de milhar. Evitar o ponto, ainda que correto em PT-PT.
 - Formato numérico da data, seguir a norma ISO: **AAAA-MM-DD**
 - Formato textual da data: **DD de mês de AAAA**.
 - Moeda: **euro (€)**, não real.
