@@ -29,41 +29,67 @@ Usar o Acordo Ortográfico de 1990 tal como aplicado em Portugal:
 
 | PT-PT (correto) | PT-BR (evitar) |
 |---|---|
-| autocarro | ônibus |
-| comboio | trem |
-| telemóvel | celular |
-| frigorífico | geladeira |
-| casa de banho | banheiro |
-| pequeno-almoço | café da manhã |
-| talho | açougue |
-| pastelaria | confeitaria |
-| peão | pedestre |
-| código postal | CEP |
-| bilhete de identidade / CC | RG |
-| ficha / tomada | tomada / plugue |
-| ecrã | tela |
-| rato (informática) | mouse |
-| descarregar | baixar (download) |
-| carregar (upload) | subir / fazer upload |
-| aplicação / app | aplicativo |
-| utilizador | usuário |
-| ficheiro | arquivo |
-| pasta (diretório) | pasta / diretório |
-| apagar | deletar |
-| gravar (gravar ficheiro) | salvar (salvar arquivo) |
-| depurar | debugar |
-| valor pré-definido / valor por omissão / valor padrão | valor por defeito |
-| prova digital | evidência digital |
 | a seguir / depois | aí / daí (como conector) |
-| semáforo | sinaleiro / farol |
+| altifalante | alto-falante |
+| apagar | deletar |
+| aplicação / app | aplicativo |
+| auriculares (intra-auriculares) | fones de ouvido |
+| auscultadores | fones de ouvido |
+| autocarro | ônibus |
 | autocarro expresso | ônibus expresso |
-| metro | metrô |
-| portagem | pedágio |
-| estação de serviço | posto de gasolina |
+| bilhete de identidade / CC | RG |
+| cabo de alimentação | cabo de força |
 | capot | capô |
+| carregar (upload) | subir / fazer upload |
+| casa de banho | banheiro |
+| código postal | CEP |
+| comando (à distância) | controle remoto |
+| comboio | trem |
+| computador portátil / portátil | notebook / laptop |
+| comutador (eléctrico) | chave seletora |
+| condensador (eletrónica) | capacitor |
+| depurar | debugar |
+| descarnador (de fios) | desencapador |
+| descarregar | baixar (download) |
+| dessoldador | sugador de solda |
+| disco rígido | HD |
+| ecrã | tela |
+| estação de serviço | posto de gasolina |
 | factura / fatura | nota fiscal |
+| ferro de soldar | ferro de solda |
+| ficha (conector macho) | plugue / pino |
+| ficha / tomada | tomada / plugue |
+| ficha tripla | benjamim / T |
+| ficheiro | arquivo |
+| frigorífico | geladeira |
+| gravar (gravar ficheiro) | salvar (salvar arquivo) |
+| interruptor | chave / interruptor |
 | IVA | ICMS / IPI |
+| ligação à terra | aterramento |
+| massa (referência do circuito) | terra |
+| metro | metrô |
 | NIF | CPF / CNPJ |
+| pasta (diretoria) | pasta / diretório |
+| pastelaria | confeitaria |
+| peão (pessoa)| pedestre |
+| pequeno-almoço | café da manhã |
+| pista (de cobre, em PCI) | trilha |
+| placa de ensaios / breadboard | protoboard |
+| placa gráfica | placa de vídeo |
+| placa perfurada | placa padrão |
+| ponta de prova | ponteira de prova |
+| portagem | pedágio |
+| prova digital | evidência digital |
+| rato (informática) | mouse |
+| resistência (componente eletrónico) | resistor |
+| semáforo | sinaleiro / farol |
+| soldadura | solda / soldagem |
+| suporte de CI | soquete |
+| talho | açougue |
+| telemóvel | celular |
+| utilizador | usuário |
+| valor pré-definido / valor por omissão| valor por defeito |
+| ventoinha (de PC, de teto) | ventilador / cooler |
 
 ### Pronomes e formas de tratamento
 
