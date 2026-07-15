@@ -54,6 +54,7 @@ Usar o Acordo Ortográfico de 1990 tal como aplicado em Portugal:
 | dessoldador | sugador de solda |
 | disco rígido | HD |
 | ecrã | tela |
+| âmbito / abrangência | escopo |
 | estação de serviço | posto de gasolina |
 | factura / fatura | nota fiscal |
 | ferro de soldar | ferro de solda |
@@ -66,7 +67,6 @@ Usar o Acordo Ortográfico de 1990 tal como aplicado em Portugal:
 | interruptor | chave / interruptor |
 | IVA | ICMS / IPI |
 | ligação à terra | aterramento |
-| massa (referência do circuito) | terra |
 | metro | metrô |
 | NIF | CPF / CNPJ |
 | pasta (diretoria) | pasta / diretório |
@@ -172,6 +172,7 @@ Usar o Acordo Ortográfico de 1990 tal como aplicado em Portugal:
 | Debugar o código | Depurar o código |
 | Valor por defeito | Valor pré-definido / valor por omissão / valor padrão |
 | Evidência digital | Prova digital |
+| Escopo (do projeto) | Âmbito / abrangência |
 | rsrsrs / kkkk | ahahah / ahahahah |
 | Usuário | Utilizador |
 | Aplicativo | Aplicação |
